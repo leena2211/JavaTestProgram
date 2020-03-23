@@ -9,6 +9,7 @@ public class EvenOdd {
 
         System.out.print("Enter a number: ");
         int num = reader.nextInt();
+       
         
         if(num%2==0){
         	System.out.println("Even Number");
